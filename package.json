@@ -1,0 +1,21 @@
+{
+  "name": "challenge-18-assignment",
+  "version": "1.0.0",
+  "description": "x\r ## Table of Contents\r - [challenge-18-assignment:  NoSQL Social Network API](#challenge-18-assignment--nosql-social-network-api)\r   - [Description](#description)\r   - [Table of Contents](#table-of-contents)\r   - [Applications Used](#applications-used)\r   - [Installation](#installation)\r   - [Video](#video)\r   - [Contributing](#contributing)\r ## Applications Used\r x\r ## Installation\r x\r ## Video\r https://drive.google.com/file/d/1vMcgWUWvt8cPboTl_Ethl-aywPKuXI3P/view\r ## Contributing\r Nick DiBartolo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdibartolo1/challenge-18-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdibartolo1/challenge-18-assignment/issues"
+  },
+  "homepage": "https://github.com/nickdibartolo1/challenge-18-assignment#readme"
+}
